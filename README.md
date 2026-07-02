@@ -1,2 +1,2 @@
 # MarkItDown
-MArkItDown GUI for Mac
+MarkItDown GUI for Mac
